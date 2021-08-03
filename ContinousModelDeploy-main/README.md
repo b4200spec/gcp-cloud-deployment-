@@ -3,4 +3,4 @@ This Repository contains image classifier web app built on streamlit and deploye
 
 start with configuring "GitHub cloud build app" for required repo - https://github.com/marketplace/google-cloud-build
 
-#Updated for Deployment - 5
+#Updated for Deployment - 6
