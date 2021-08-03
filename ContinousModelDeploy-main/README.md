@@ -1,4 +1,6 @@
-# This repo is for my upcoming session on continous model deployment
-Will update details post the session - In the session
+# Machine Learning Web APP - Computer Vision Model
+This Repository contains image classifier web app built on streamlit and deployed on GCP using CloudBuild
 
-UPdate to demo in AIEngineering channel-2
+start with configuring "GitHub cloud build app" for required repo - https://github.com/marketplace/google-cloud-build
+
+#Updated for Deployment - 2
